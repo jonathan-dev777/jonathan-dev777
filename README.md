@@ -19,20 +19,16 @@ The project started as a simple To-do app and is continuously evolving with new 
 - Firebase
 - Git & GitHub
 
-🔗 **[Live Demo](https://productivity-app-atz.pages.dev/)**
+🔗 [Live Demo](https://productivity-app-atz.pages.dev/)
 
 ## 📚 Currently Learning
 
 - JavaScript
-- Web Development
+- Modern Web Development
 - Git & GitHub
 - Building web applications with AI
 
-## 🛠️ Technologies
-
-HTML • CSS • JavaScript • Firebase • Git • GitHub
-
-## 📌 Other Projects
+## 📂 Other Projects
 
 ### Geoengineering Website
 
