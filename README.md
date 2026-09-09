@@ -1,4 +1,4 @@
-# Hey, I'm Jonyx 👋
+# Hey, I'm Jonathan 👋
 
 💻 Web Development | HTML, CSS & JavaScript  
 🚀 Developing my own Productivity Web App from scratch  
@@ -18,6 +18,7 @@ The project started as a simple To-do app and is continuously evolving with new 
 - JavaScript
 - Firebase
 - Git & GitHub
+- Clodflare
 
 🔗 [Live Demo](https://productivity-app-atz.pages.dev/)
 
