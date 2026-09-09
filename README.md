@@ -18,7 +18,7 @@ The project started as a simple To-do app and is continuously evolving with new 
 - JavaScript
 - Firebase
 - Git & GitHub
-- Clodflare
+- Cloudflare
 
 🔗 [Live Demo](https://productivity-app-atz.pages.dev/)
 
