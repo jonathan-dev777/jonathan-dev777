@@ -1,10 +1,10 @@
 # Jonathan · Self-Taught Developer
 
 **Projekte:**
-- [Finance Tracker]([LINK](https://financ-tracker.pages.dev/)) — Software zur Verwaltung von Einnahmen, Ausgaben und Kontostand
-- [Productivity App]([LINK](https://productivity-app-atz.pages.dev/)) — Software zur persönlichen Organisation und Produktivitätssteigerung
-- [NaC Mod Launcher]([LINK](https://nac-datapack.pages.dev/)) — Mod-Launcher für Minecraft 
-
+- [Finance Tracker](https://financ-tracker.pages.dev/) — Software zur Verwaltung von Einnahmen, Ausgaben und Kontostand
+- [Productivity App](https://productivity-app-atz.pages.dev/) — Software zur persönlichen Organisation und Produktivitätssteigerung
+- [NaC Mod Launcher](https://nac-datapack.pages.dev/) — Mod-Launcher für Minecraft
+  
 **Aktuell am lernen:** <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
